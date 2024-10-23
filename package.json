@@ -1,0 +1,23 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is namaste react by ansh gupta",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/661anshgupta/NamasteReact.git"
+  },
+  "keywords": [],
+  "author": "Ansh Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/661anshgupta/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/661anshgupta/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
